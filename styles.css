@@ -362,8 +362,7 @@ footer {
     text-align: left;
   }
 
-  .service__grid,
-  .project__grid {
+  .service__grid {
     grid-template-columns: repeat(2, 1fr);
     gap: 2rem;
   }
@@ -379,8 +378,7 @@ footer {
     line-height: 5rem;
   }
 
-  .service__grid,
-  .project__grid {
+  .service__grid {
     grid-template-columns: repeat(3, 1fr);
   }
 }
